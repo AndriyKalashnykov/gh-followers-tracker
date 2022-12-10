@@ -1,5 +1,5 @@
 {
-  "name": "github-followers-tracker",
+  "name": "gh-followers-tracker",
   "version": "1.0.0",
   "description": "A simple web-app that keeps track of your github's followers. You can easily spot who followed or unfollowed you since your last visit.",
   "main": "server.js",
@@ -12,6 +12,6 @@
   "license": "ISC",
   "homepage": "https://github.com/andriykalashnykov/gh-followers-tracker#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
