@@ -1,0 +1,17 @@
+{
+  "name": "github-followers-tracker",
+  "version": "1.0.0",
+  "description": "A simple web-app that keeps track of your github's followers. You can easily spot who followed or unfollowed you since your last visit.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/andriykalashnykov/gh-followers-tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
